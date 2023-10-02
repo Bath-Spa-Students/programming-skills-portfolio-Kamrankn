@@ -1,4 +1,5 @@
 # Define three strings in different variables
+# Define three strings in different variables
 string1 = "Hello, "
 string2 = "world!"
 string3 = " How are you?"
