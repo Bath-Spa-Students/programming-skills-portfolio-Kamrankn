@@ -1,0 +1,16 @@
+print ("Fathers name" ":Nadeem")
+print ("Name", ":Kamran")
+Name = "Kamran"
+Name = "Bathspa"
+print(Name)
+# Data types int, float, str
+print (13/2)
+print (11/2)
+name =input("Enter Name:")
+age = input("Enter age:")
+print (name, age)
+#type cast float to int
+
+ans = (23*5(3+5)5/5 + 6*8)
+print(int("ans"))
+
