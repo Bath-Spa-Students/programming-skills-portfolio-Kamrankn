@@ -12,3 +12,4 @@ while True:
         print("Your ticket costs $10.")
     else:
         print("Your ticket costs $15.")
+
