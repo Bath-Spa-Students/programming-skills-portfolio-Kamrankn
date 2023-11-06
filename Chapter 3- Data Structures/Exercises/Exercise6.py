@@ -11,7 +11,8 @@ while len(guests) > 2:
 
 # Print invitations for the two remaining guests
 for guest in guests:
-    invitation = f"Dear {guest},\n\nYou are invited to a dinner at my place on Sunday. Please join us for an evening of good food and great conversation.\n\nSincerely, Kamran"
+    invitation = f"Dear {guest},\n\nYou are invited to a dinner at my place on Sunday.\
+ Please join us for an evening of good food and great conversation.\n\nSincerely, Kamran"
     print(invitation)
 
 # Use del to remove the last two names

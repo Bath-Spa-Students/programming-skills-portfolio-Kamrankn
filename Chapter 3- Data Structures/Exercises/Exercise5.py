@@ -12,5 +12,6 @@ guests.append(new_guest)
 
 # Generate dinner invitations for each remaining guest
 for guest in guests:
-    invitation = f"Dear {guest},\n\nYou are invited to a dinner at my place on Sunday. Please join us for an evening of good food and great conversation.\n\nSincerely, Kamran"
+    invitation = f"Dear {guest},\n\nYou are invited to a dinner at my place on Sunday.\
+Please join us for an evening of good food and great conversation.\n\nSincerely, Kamran"
     print(invitation)
