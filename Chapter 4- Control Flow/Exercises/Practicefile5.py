@@ -1,4 +1,4 @@
-# Get the month as input (assuming an integer value)
+# Get the month as input
 month = int(input("Enter the month (1-12): "))
 
 if 1 <= month <= 12:
